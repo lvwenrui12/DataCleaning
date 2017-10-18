@@ -1,6 +1,6 @@
 source https://nuget.org/api/v2
 framework >= net40
-
+nuget gitlink
 nuget JetBrains.Annotations
 nuget gitlink
 nuget Costura.Fody 1.4.1
