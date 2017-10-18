@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MahApps.Metro", "MahApps.Me
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MahApps.Metro.Shared", "MahApps.Metro\MahApps.Metro.Shared\MahApps.Metro.Shared.shproj", "{2843F39D-AAC1-44B2-B26C-02DEE5D85666}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{02D75741-6931-4393-BE93-E2CEC09E3DCF}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		MahApps.Metro\MahApps.Metro.Shared\MahApps.Metro.Shared.projitems*{2843f39d-aac1-44b2-b26c-02dee5d85666}*SharedItemsImports = 13
